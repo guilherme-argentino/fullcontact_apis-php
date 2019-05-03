@@ -1,6 +1,6 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
-    "description": "",
+    "name": "guilherme-argentino/fullcontact_apis-php",
+    "description": "Pacote gerado para suportar o consumo das APIs de FullContact.com",
     "keywords": [
         "swagger",
         "php",
