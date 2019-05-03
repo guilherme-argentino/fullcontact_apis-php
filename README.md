@@ -1,6 +1,5 @@
 [![Build Status](https://scrutinizer-ci.com/g/guilherme-argentino/fullcontact_apis-php/badges/build.png?b=master)](https://scrutinizer-ci.com/g/guilherme-argentino/fullcontact_apis-php/build-status/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/guilherme-argentino/fullcontact_apis-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/guilherme-argentino/fullcontact_apis-php/?branch=master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/guilherme-argentino/fullcontact_apis-php/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 
 # FullContact.com APIs SwaggerClient for php
 Lookup and enrich individuals by sending any identifiers you may already have, such as an email address, Twitter handle or phone number. These identifiers will then be used to locate and return any additional information we may have, such as a person’s name and social handles.
